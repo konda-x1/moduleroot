@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:konda-x1/submodule.git
